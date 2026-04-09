@@ -62,7 +62,7 @@
                         <div class="card-body">
                             <h5 class="card-title text-primary">$450,000</h5>
                             <p class="card-text mb-1"><strong>3 BHK Luxury Villa</strong></p>
-                            <p class="text-muted small">Sunset Boulevard, Los Angeles</p>
+                            <p class="text-muted small">Sunset , GOA</p>
                             <span class="badge bg-success">For Sale</span>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                     <div class="card h-100 property-card border-0 shadow-sm" data-bs-toggle="modal" data-bs-target="#propertyModal">
                         <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=500&q=80" class="card-img-top" alt="Penthouse">
                         <div class="card-body">
-                            <h5 class="card-title text-primary">$820,000</h5>
+                            <h5 class="card-title text-primary">820,000</h5>
                             <p class="card-text mb-1"><strong>4 BHK Penthouse</strong></p>
                             <p class="text-muted small">Skyline Heights, Manhattan</p>
                             <span class="badge bg-warning text-dark">Premium</span>
