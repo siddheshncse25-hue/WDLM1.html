@@ -32,9 +32,9 @@
                     <label class="form-label">Price Range</label>
                     <select class="form-select">
                         <option selected>All Prices</option>
-                        <option>$100k - $300k</option>
-                        <option>$300k - $600k</option>
-                        <option>$600k+</option>
+                        <option>100k - 300k</option>
+                        <option>300k - 600k</option>
+                        <option>600k+</option>
                     </select>
                 </div>
 
