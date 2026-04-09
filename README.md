@@ -113,10 +113,10 @@
                         <h3>Skyline Luxury Estate</h3>
                         <p class="text-primary h4 mb-3">$450,000</p>
                         <ul class="list-group list-group-flush mb-3">
-                            <li class="list-group-item">🛌 3 Bedrooms (BHK)</li>
-                            <li class="list-group-item">🚿 2 Bathrooms</li>
-                            <li class="list-group-item">📐 2,400 Sq Ft</li>
-                            <li class="list-group-item">🚗 2 Parking Spaces</li>
+                            <li class="list-group-item"> 3 Bedrooms (BHK)</li>
+                            <li class="list-group-item"> 2 Bathrooms</li>
+                            <li class="list-group-item"> 2,400 Sq Ft</li>
+                            <li class="list-group-item"> 2 Parking Spaces</li>
                         </ul>
                         <p>This stunning property features modern architecture, high-end finishes, and a spacious backyard perfect for entertaining.</p>
                     </div>
